@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.0.5",
-    "patchUrl":  "https://github.com/IanCasera/mlauncher/releases/download/v1.0.5/version.zip",
-    "sha256":  "299985c60cd247c27d9b454a887af8ae0d77056212966f4051a7e6576637d1e9",
+    "latestVersion":  "1.0.6",
+    "patchUrl":  "https://github.com/IanCasera/mlauncher/releases/download/v1.0.6/version.zip",
+    "sha256":  "7260e1a64a82c889a364085a8037fbcc37275b90a4b8a5857a182b2d45d96f4e",
     "requiredLauncherVersion":  "1.0.0",
     "notes":  "Latest client patch"
 }
